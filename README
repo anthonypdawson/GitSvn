@@ -1,0 +1,1 @@
+Rudimentary script that will convert from a running svn server to a new git repository. Optionally creating a bare repo on the server and pushing to it, creating default branches and other random things I found useful at the time.
